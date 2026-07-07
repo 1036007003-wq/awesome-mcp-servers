@@ -536,3 +536,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
+
+## Marketing
+
+- [Reddit Marketing MCP](https://github.com/1036007003-wq/reddit-marketing-mcp) - AI-powered Reddit marketing: research, trending, competitor analysis, AI posts
+- [Twitter/X Marketing MCP](https://github.com/1036007003-wq/twitter-marketing-mcp) - AI-powered Twitter marketing: search, analyze, AI tweets, scheduling
+- [Discord AI MCP](https://github.com/1036007003-wq/discord-ai-mcp) - AI-powered Discord community growth and engagement
+- [GitHub Stars MCP](https://github.com/1036007003-wq/github-stars-mcp) - AI-powered GitHub growth: stars, comparison, README optimization
+- [LinkedIn Marketing MCP](https://github.com/1036007003-wq/linkedin-marketing-mcp) - AI-powered LinkedIn B2B outreach and content
+- [TikTok Marketing MCP](https://github.com/1036007003-wq/tiktok-marketing-mcp) - AI-powered TikTok marketing: trends, hashtags, scripts

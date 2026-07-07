@@ -255,7 +255,12 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools that help marketers write better content and run better campaigns.
 
-- <img src="https://cdn.simpleicons.org/analytics/4285F4" height="14"/> [Agent Mindshare](https://agentmindshare.com) - Track and monitor AI agent mindshare across platforms - measure brand visibility in AI conversations.
+- - <img src="https://cdn.simpleicons.org/reddit/FF4500" height="14"/> [Reddit Marketing MCP](https://github.com/1036007003-wq/reddit-marketing-mcp) - AI-powered Reddit marketing: subreddit research, trending posts, competitor analysis, and AI post generation.
+- <img src="https://cdn.simpleicons.org/x/000000" height="14"/> [Twitter/X Marketing MCP](https://github.com/1036007003-wq/twitter-marketing-mcp) - AI-powered Twitter marketing: tweet search, account analysis, AI tweet generation, and scheduling.
+- <img src="https://cdn.simpleicons.org/discord/5865F2" height="14"/> [Discord AI MCP](https://github.com/1036007003-wq/discord-ai-mcp) - AI-powered Discord community growth: server discovery, engagement analysis, AI message drafting.
+- <img src="https://cdn.simpleicons.org/github/181717" height="14"/> [GitHub Stars MCP](https://github.com/1036007003-wq/github-stars-mcp) - AI-powered GitHub growth: star analytics, repo comparison, AI README optimization.
+- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="14"/> [LinkedIn Marketing MCP](https://github.com/1036007003-wq/linkedin-marketing-mcp) - AI-powered LinkedIn B2B marketing: profile search, company analysis, AI outreach drafting.
+<img src="https://cdn.simpleicons.org/analytics/4285F4" height="14"/> [Agent Mindshare](https://agentmindshare.com) - Track and monitor AI agent mindshare across platforms - measure brand visibility in AI conversations.
 - <img src="https://openstrategypartners.com/fileadmin/Bilder/logo/OSP_logo_colors_green1.png" height="14"/> [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools)<sup><sup>⭐</sup></sup> - a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" height="14"/> [Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server) - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
@@ -315,7 +320,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Integration with social media platforms and content sharing services. Enables interaction with social networks and content platforms.
 
-- <img src="https://cdn.simpleicons.org/bluesky/0085FF" height="14"/> [BlueSky](https://github.com/keturiosakys/bluesky-context-server) - Bluesky API integration for querying and searching feeds and posts
+- - <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" height="14"/> [TikTok Marketing MCP](https://github.com/1036007003-wq/tiktok-marketing-mcp) - AI-powered TikTok marketing: trending video search, hashtag analysis, AI script drafting.
+<img src="https://cdn.simpleicons.org/bluesky/0085FF" height="14"/> [BlueSky](https://github.com/keturiosakys/bluesky-context-server) - Bluesky API integration for querying and searching feeds and posts
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/anaisbetts/mcp-youtube)<sup><sup>1</sup></sup> - YouTube integration using yt-dlp for subtitle downloading and video analysis
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
 - <img src="https://cdn.simpleicons.org/spotify/1DB954" height="14"/> [Spotify](https://github.com/varunneal/spotify-mcp) - Connects with Spotify for playback control and track/album/artist/playlist management.
